@@ -8,6 +8,18 @@ defmodule Update.Discussions do
 
   alias Update.Discussions.Topic
 
+
+  # Example functions that may be added
+  def upvote_comment(comment_id) do
+    
+  end
+
+  def favourite_comment(comment_id) do
+    
+  end
+
+  # Default functions generated
+
   @doc """
   Returns the list of topics.
 
